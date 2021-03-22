@@ -288,44 +288,46 @@ footer hr{
 }
 
 
-/*--IPHONES SECTION--*/
+/*--PRODUCTS SECTION--*/
 
-.display-products-ipsec {
+.display-products-sec{
    padding: 3rem 7rem 7rem;
 }
 
-.display-products-ipsec a{
+
+.display-products-sec a{
     text-decoration: none;
     color: black;
 }
 
-.display-products-ipsec a:hover{
+.display-products-sec a:hover{
     color: #1f1888;
 }
 
-.display-products-ipsec .row.padding{
+.display-products-sec .row{
     padding: 2rem;
 }
 
-.display-products-ipsec h4 {
+
+.display-products-sec h4 {
     font-weight: bold;
 }
 
-.display-products-ipsec h6{ 
+.display-products-sec h6{ 
     color: #1f1888;
 }
 
-.display-products-ipsec .bg {
+.display-products-sec .bg {
     border: 2px solid #d5d5d5;
     border-radius: 20px;
     padding: 1rem;
 }
 
-.display-products-ipsec hr{
+.display-products-sec hr{
    border: 1px; 
 }
 
-.display-products-ipsec .list-group-item {
+.display-products-sec .list-group-item {
     background-color: #F2D53F;
     border: none;
 }
@@ -334,9 +336,13 @@ h5 {
     font-size: 15px;
 }
 
-.display-products-ipsec h5{
-    margin-bottom: 3rem;
+.row .acess .bg {
+    border: 2px solid #d5d5d5;
+    border-radius: 20px;
 }
+
+
+
 
 /*-------BUTTON TOP--------*/
 
